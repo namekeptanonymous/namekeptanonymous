@@ -3,6 +3,6 @@
 - 👀 I’m interested mainly in Front-end Web Development & Mobile App Development.
 - 🌱 I’m currently diving deeper into three.js (3D web library) and anime.js (2D animation library), among others.
 - 👨‍💻 I have experience in React.js, Tailwind CSS, JavaScript, Jest, Node.js, PHP, AJAX, jQuery, HTML, Bootstrap, Android apps (Android Studio), MySQL, PostgreSQL, Firebase, Git, and Docker.
-- 🎓 I’m about to complete my undergraduate degree in Computer Science at UBCO — expected graduation in early June!
+- 🎓 Graduated this June with a BSc in Computer Science at the University of British Columbia!
 - ⭐️ I'm excited to learn new things and I hope to be sharing more projects and experiments on GitHub soon!
 - 📸 I, for my hobbies, love taking scenic landscape photos and doodling whenever I get the chance!
