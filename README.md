@@ -4,4 +4,4 @@
 - 👨‍💻 I have experience in React.js, Tailwind CSS, JavaScript, Jest, HTML, Bootstrap, Java, Android apps (Android Studio), MySQL, Firebase, Git, and Docker.
 - 🎓 Graduated this June with a BSc in Computer Science at the University of British Columbia!
 - ⭐️ I'm excited to learn new things and I hope to be sharing more projects and experiments on GitHub soon!
-- 📸 I, for my hobbies, love taking scenic landscape photos and doodling whenever I get the chance. You can see some of my shots on my website!
+- 📸 I love taking scenic landscape photos and doodling whenever I get the chance. You can see some of my shots on my website!
