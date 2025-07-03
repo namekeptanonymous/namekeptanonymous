@@ -1,7 +1,6 @@
 - 👋 Hiya, I’m Abdul Wahab Faiz! (@namekeptanonymous)
 - 🔭 I’m currently working on my [portfolio/personal website](https://www.namekeptanonymous.me/)! Planning to implement a lot more 2D animations & 3D visuals into it.
-- 👀 I’m interested mainly in Front-end Web Development & Mobile App Development.
-- 🌱 I’m currently diving deeper into three.js (3D web library) and anime.js (2D animation library), among others.
+- 🌱 I’m currently diving deeper into Java, three.js (3D web library) and anime.js (2D animation library), among others.
 - 👨‍💻 I have experience in React.js, Tailwind CSS, JavaScript, Jest, Node.js, PHP, AJAX, jQuery, HTML, Bootstrap, Android apps (Android Studio), MySQL, PostgreSQL, Firebase, Git, and Docker.
 - 🎓 Graduated this June with a BSc in Computer Science at the University of British Columbia!
 - ⭐️ I'm excited to learn new things and I hope to be sharing more projects and experiments on GitHub soon!
