@@ -1,6 +1,6 @@
 - 👋 Hiya, I’m Wahab! (@namekeptanonymous)
 - 🔭 I’m currently working on my [portfolio/personal website](https://www.namekeptanonymous.me/)! Planning to implement a lot more back-end components into it.
-- 🌱 I’m currently diving deeper into Java, three.js (3D web library) and anime.js (2D animation library), among others.
+- 🌱 I’m currently diving deeper into Java, Node.js, three.js (3D web library) and anime.js (2D animation library), among others.
 - 👨‍💻 I have experience in React.js, Tailwind CSS, HTML, JavaScript, Node.js, Express.js, Jest, Java, Android apps (Android Studio), MySQL, Git, and Docker.
 - 🎓 Graduated this June with a BSc in Computer Science at the University of British Columbia!
 - ⭐️ I'm excited to learn new things and I hope to be sharing more projects and experiments on GitHub soon!
