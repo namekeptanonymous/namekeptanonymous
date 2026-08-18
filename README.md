@@ -1,5 +1,8 @@
-- 🔭 I build full-stack web applications and interactive experiences. Check out my work at my [portfolio site](namekeptanonymous.me)!
-- 💻 Skills: React, Node.js, TypeScript, Tailwind CSS, Prisma ORM, PostgreSQL, Three.js, Jest, GitHub Actions | Unity (C#), Flutter, Java
-- 🎯 Recent work: Full-stack capstone platform (React/Node.js/PostgreSQL), open-source mod with 990+ downloads (maintained across 6 game updates), interactive 3D portfolio site
-- 🎓 BSc Computer Science @ UBC (Dean's List, Faculty of Science Award)
-- 📸 Also love landscape photography and digital art!
+- 👋 Hiya, I’m @namekeptanonymous!
+- 🔭 I’m currently working on and publish my work at my [portfolio/personal website](https://www.namekeptanonymous.me/)!
+- ⭐️ I recently updated my [Java mod](https://github.com/namekeptanonymous/notchplease) to support newer versions of Minecraft, and it's almost at 1000 downloads! (992, almost there...!)
+- ⭐️ I'm excited to learn new things and I hope to be sharing more projects and experiments on GitHub soon!
+- 🌱 Currently getting into cloud infrastructure with AWS, ServiceNow, and Azure! Aiming to be certified in 1-2 months' time.
+- 👨‍💻 I have experience in React.js, Tailwind CSS, HTML, JavaScript, Node.js, Express.js, Unity, C#, Java, Flutter, Android apps (Android Studio), MySQL, Git, and Docker.
+- 🎓 Graduated with a BSc in Computer Science at the University of British Columbia!
+- 📸 I love taking scenic landscape photos and doodling whenever I get the chance. You can see some of my shots on my website!
