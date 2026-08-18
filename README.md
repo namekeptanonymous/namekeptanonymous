@@ -1,7 +1,5 @@
-- 👋 Hiya, I’m Wahab! (@namekeptanonymous)
-- 🔭 I’m currently working on and publish my work at my [portfolio/personal website](https://www.namekeptanonymous.me/)!
-- 🌱 I’m currently diving deeper into Java, Node.js, three.js (3D web library) and anime.js (2D animation library), among others.
-- 👨‍💻 I have experience in React.js, Tailwind CSS, HTML, JavaScript, Node.js, Express.js, Jest, Unity, C#, Java, Flutter, Android apps (Android Studio), MySQL, Git, and Docker.
-- 🎓 Graduated this June with a BSc in Computer Science at the University of British Columbia!
-- ⭐️ I'm excited to learn new things and I hope to be sharing more projects and experiments on GitHub soon!
-- 📸 I love taking scenic landscape photos and doodling whenever I get the chance. You can see some of my shots on my website!
+- 🔭 I build full-stack web applications and interactive experiences. Check out my work at my [portfolio site](namekeptanonymous.me)!
+- 💻 Skills: React, Node.js, TypeScript, Tailwind CSS, Prisma ORM, PostgreSQL, Three.js, Jest, GitHub Actions | Unity (C#), Flutter, Java
+- 🎯 Recent work: Full-stack capstone platform (React/Node.js/PostgreSQL), open-source mod with 990+ downloads (maintained across 6 game updates), interactive 3D portfolio site
+- 🎓 BSc Computer Science @ UBC (Dean's List, Faculty of Science Award)
+- 📸 Also love landscape photography and digital art!
