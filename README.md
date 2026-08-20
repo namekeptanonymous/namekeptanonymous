@@ -1,5 +1,4 @@
 - 👋 Hiya, I’m @namekeptanonymous!
-- 🔭 I’m currently working on and publish my work at my [portfolio/personal website](https://www.namekeptanonymous.me/)!
 - ⭐️ I recently updated my [Java mod](https://github.com/namekeptanonymous/notchplease) to support newer versions of Minecraft, and it's almost at 1000 downloads! (992, almost there...!)
 - ⭐️ I'm excited to learn new things and I hope to be sharing more projects and experiments on GitHub soon!
 - 🌱 Currently getting into cloud infrastructure with AWS, ServiceNow, and Azure! Aiming to be certified in 1-2 months' time.
