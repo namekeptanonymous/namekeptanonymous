@@ -1,5 +1,5 @@
 - 👋 Hiya, I’m @namekeptanonymous!
-- ⭐️ I recently updated my [Java mod](https://github.com/namekeptanonymous/notchplease) to support newer versions of Minecraft, and it's almost at 1000 downloads! (992, almost there...!)
+- ⭐️ I recently updated my [Java mod](https://github.com/namekeptanonymous/notchplease) to support newer versions of Minecraft, and it's now at 1,200+ downloads!
 - ⭐️ I'm excited to learn new things and I hope to be sharing more projects and experiments on GitHub soon!
 - 🌱 Currently getting into cloud infrastructure with AWS, ServiceNow, and Azure! Aiming to be certified in 1-2 months' time.
 - 👨‍💻 I have experience in React.js, Tailwind CSS, HTML, JavaScript, Node.js, Express.js, Unity, C#, Java, Flutter, Android apps (Android Studio), MySQL, Git, and Docker.
